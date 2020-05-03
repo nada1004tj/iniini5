@@ -3,7 +3,11 @@
 </template>
 
 <script>
-export default {
-  name: "App"
-};
+  export default {
+    name: "App",
+  };
 </script>
+
+<style>
+  @import url("./assets/css/common.css");
+</style>
